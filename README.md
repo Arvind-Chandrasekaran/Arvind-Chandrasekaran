@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Softdev1579
+- 👋 Hi, I’m @Arvind-Chandrasekaran
 - 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning OpenCV
 - 💞️ I’m looking to collaborate on ML
