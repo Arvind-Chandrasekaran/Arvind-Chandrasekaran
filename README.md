@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arvind-Chandrasekaran
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning OpenCV
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/Arvind-Chandrasekaran-/
 - 😄 Pronouns: He/Him
  
