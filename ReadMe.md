@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Undergrad @UNSW<br>Deep Learning Developer <be>Natural Language Processing <br>Machine Learning <br>
+Software Engineering Undergrad @UNSW<br>Deep Learning Developer <br>Natural Language Processing <br>Machine Learning <br>
 
 
 ## 🌐 Socials:
