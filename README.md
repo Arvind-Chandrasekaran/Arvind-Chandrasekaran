@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Undergrad @UNSW<br>Deep Learning Developer - LangChain, GPT, ChromaDB<br>Natural Language Processing - PrompEngineering, BERT. <br>
+Software Engineering Undergrad @UNSW<br>Deep Learning Developer <br>Natural Language Processing <br>Machine Learning
 
 
 ## 🌐 Socials:
