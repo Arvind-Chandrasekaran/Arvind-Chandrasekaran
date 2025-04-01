@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome, I'm Arvind 
 Software Engineering Undergrad @UNSW<br>Deep Learning Developer <br>Natural Language Processing <br>Machine Learning
 
 
