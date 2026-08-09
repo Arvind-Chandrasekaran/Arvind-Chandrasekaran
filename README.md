@@ -1,6 +1,5 @@
 # 💫 Hi!, I'm Arvind 
-Software Engineering Undergrad @UNSW<br>Deep Learning Developer <br>Natural Language Processing <br>Machine Learning
-
+AI Software Engineer 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arvind-chandrasekaran-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arvind.c9751@gmail.com) 
