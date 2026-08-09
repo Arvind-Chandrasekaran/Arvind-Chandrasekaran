@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer | AI Engineer | Competitive Programmer | NLP Specialist
+Software Engineer | AI Engineer | NLP Specialist | Competitive Programmer
 
 
 # 💻 Tech Stack:
