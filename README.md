@@ -9,7 +9,7 @@ Software Engineer | AI Engineer | NLP Specialist | Competitive Programmer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arvind-chandrasekaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=arvind-chandrasekaran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arvind-chandrasekaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
